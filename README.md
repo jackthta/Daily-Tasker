@@ -12,4 +12,4 @@ Functionality includes:
 ![](https://media.giphy.com/media/L0IUieFYuzdK93OQEp/giphy.gif)
 
 ### Home Page
-![](https://media.giphy.com/media/xUyla0hgUv1kUOnXAh/giphy.gif)
+![Home Page](https://github.com/jackthta/Daily-Tasker/blob/master/gifs/Home%20page.gif)
