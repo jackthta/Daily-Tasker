@@ -9,7 +9,7 @@ Functionality includes:
 
 ### Welcome Page
 **This was just an idea I had, but didn't know how to implement it. I included it as I may wish to connect the welcome page to the daily task homepage eventually.**
-![Welcome Page](https://github.com/jackthta/Daily-Tasker/blob/master/gifs/Welcome%20page.gif)
+![Welcome Page](https://github.com/jackthta/Daily-Tasker/blob/master/gifs/Welcome.gif)
 
 ### Home Page
 ![Home Page](https://github.com/jackthta/Daily-Tasker/blob/master/gifs/Home%20page.gif)
