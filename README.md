@@ -7,4 +7,4 @@ Functionality includes:
 
 ## Screenshots
 
-<iframe src='https://giant.gfycat.com/BlandScaredCony.webm' frameborder='0' scrolling='no' width='640' height='346' allowfullscreen></iframe> 
+<iframe src='https://gfycat.com/blandscaredcony' frameborder='0' scrolling='no' width='640' height='346' allowfullscreen></iframe> 
