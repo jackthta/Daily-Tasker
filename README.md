@@ -6,3 +6,5 @@ Functionality includes:
 - **Real time clock**
 
 ## Screenshots
+
+<iframe src='https://giant.gfycat.com/BlandScaredCony.webm' frameborder='0' scrolling='no' width='640' height='346' allowfullscreen></iframe> 
