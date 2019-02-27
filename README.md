@@ -7,4 +7,4 @@ Functionality includes:
 
 ## Screenshots
 
-<iframe src='https://gfycat.com/blandscaredcony' frameborder='0' scrolling='no' width='640' height='346' allowfullscreen></iframe> 
+![](https://media.giphy.com/media/L0IUieFYuzdK93OQEp/giphy.gif)
