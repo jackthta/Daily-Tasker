@@ -8,7 +8,8 @@ Functionality includes:
 ## Screenshots
 
 ### Welcome Page
-**This was just an idea I had, but didn't know how to implement it. I included it as I may wish to connect the welcome page to the daily task homepage eventually.**
+*This was just an idea I had, but didn't know how to implement it. I included it as I may wish to connect the welcome page to the daily task homepage eventually.*
+
 ![Welcome Page](https://github.com/jackthta/Daily-Tasker/blob/master/gifs/Welcome%20Page.gif)
 
 ### Home Page
