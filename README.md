@@ -7,4 +7,9 @@ Functionality includes:
 
 ## Screenshots
 
+### Welcome Page
+**This was just an idea I had, but didn't know how to implement it at the time. I included it as I may wish to connect the welcome page to the daily tasker homepage eventually.**
 ![](https://media.giphy.com/media/L0IUieFYuzdK93OQEp/giphy.gif)
+
+### Home Page
+![](https://media.giphy.com/media/xUyla0hgUv1kUOnXAh/giphy.gif)
